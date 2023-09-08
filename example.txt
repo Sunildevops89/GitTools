@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Hai - dev
-=======
 Haii
->>>>>>> origin/master
